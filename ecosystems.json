@@ -1,0 +1,14 @@
+{
+    "arbitrum": {
+        "name": "Arbitrum"
+    },
+    "avalanche": {
+        "name": "Avalanche"
+    },
+    "ethereum": {
+        "name": "Ethereum"
+    },
+    "polygon": {
+        "name": "Polygon"
+    }
+}
