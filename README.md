@@ -26,7 +26,7 @@ Open source registry of dApps.
         "telegram": "https://t.me/OlympusTG",
         "youtube": "https://www.youtube.com/c/olympusdao",
         "reddit": "https://www.reddit.com/r/olympusdao",
-        "github": "https://github.com/OlympusDAO",
+        "github": "https://github.com/OlympusDAO"
     }
 }
 ```
