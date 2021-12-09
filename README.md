@@ -17,7 +17,7 @@ Open source registry of dApps.
     "description": "Olympus is a decentralized reserve currency protocol based on the OHM token. Each OHM token is backed by a basket of assets (e.g. DAI, FRAX) in the Olympus treasury, giving it an intrinsic value that it cannot fall below.",
     "logo": "olympusdao.png",
     "categories": ["defi"],
-    "ecosystem": ["ethereum", "avalanche", "arbitrum"],
+    "ecosystems": ["ethereum", "avalanche", "arbitrum"],
     "website": "https://olympusdao.finance",
     "external": {
         "twitter": "https://twitter.com/OlympusDAO",
