@@ -5,6 +5,9 @@
     "avalanche": {
         "name": "Avalanche"
     },
+    "cronos": {
+        "name": "Cronos"
+    },
     "ethereum": {
         "name": "Ethereum"
     },
