@@ -1,19 +1,19 @@
 [
     {
-        "name": "OlympusDAO",
-        "description": "Olympus is a decentralized reserve currency protocol based on the OHM token. Each OHM token is backed by a basket of assets (e.g. DAI, FRAX) in the Olympus treasury, giving it an intrinsic value that it cannot fall below.",
-        "logo": "olympusdao.png",
-        "categories": ["defi"],
-        "ecosystems": ["ethereum", "avalanche", "arbitrum"],
-        "website": "https://olympusdao.finance",
+        "name": "Crodo",
+        "description": "IDO on Cronos network",
+        "logo": "crodo.png",
+        "categories": ["launchpad"],
+        "ecosystems": ["cronos"],
+        "website": "https://crodo.io",
         "external": {
-            "twitter": "https://twitter.com/OlympusDAO",
-            "discord": "https://discord.com/invite/olympusdao",
-            "medium": "https://olympusdao.medium.com",
-            "telegram": "https://t.me/OlympusTG",
-            "youtube": "https://www.youtube.com/c/olympusdao",
-            "reddit": "https://www.reddit.com/r/olympusdao",
-            "github": "https://github.com/OlympusDAO"
+            "twitter": "https://twitter.com/Crodo_io",
+            "discord": "http://discord.gg/NUd7AN2G9q",
+            "medium": "",
+            "telegram": "http://t.me/crodo_io",
+            "youtube": "",
+            "reddit": "",
+            "github": "https://github.com/Crodo-io"
         }
     }
 ]
